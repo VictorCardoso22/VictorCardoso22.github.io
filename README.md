@@ -7,14 +7,17 @@
 
 
 ### Sobre mim
-- Meu nome é Victor Cardoso, sou Desenvolvedor Web e Mibile, atualmente moro em Maceió/AL, Brasil
--Trabalho com desenvolvimento de sistemas pelo menos há 3 anos tendo flutter como foco principal.
--Trabalho no setor de desenvolvimento de sistemas da polícia militar do estado de Alagoas e sou co-fundador da 6Code Solutions.
+- Meu nome é Victor Cardoso, sou Desenvolvedor Web e Mobile, atualmente moro em Maceió/AL, Brasil
+- Trabalho com desenvolvimento de sistemas pelo menos há 3 anos tendo flutter como foco principal.
+- Trabalho no setor de desenvolvimento de sistemas da polícia militar do estado de Alagoas e sou co-fundador da 6Code Solutions.
+
 ---
+
 ### About me
--My name is Victor Cardoso, I'm a Web and Mobile Developer, I currently live in Maceió/AL, Brazil
--I've been working with systems development for at least 3 years with flutter as my main focus.
--I work in the systems development sector of the military police of the state of Alagoas and I am a co-founder of 6Code Solutions
+- My name is Victor Cardoso, I'm a Web and Mobile Developer, I currently live in Maceió/AL, Brazil
+- I've been working with systems development for at least 3 years with flutter as my main focus.
+- I work in the systems development sector of the military police of the state of Alagoas and I am a co-founder of 6Code Solutions
+
 ---
 ### Technologies & Tools
 
